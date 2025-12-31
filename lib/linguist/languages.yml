@@ -1766,6 +1766,17 @@ Dotenv:
   tm_scope: source.dotenv
   ace_mode: text
   language_id: 111148035
+dotFun:
+  type: programming
+  color: "#f34b7d"
+  extensions:
+    - ".df"
+    - ".dotfun"
+    - ".fun"
+    - ".dtf"
+    tm_scope: source.dotfun
+    ace_mode: text
+    language_id: 7384685
 Dune:
   type: programming
   ace_mode: lisp
